@@ -16,8 +16,11 @@ The player will act as informant with news of the local quarrels between towns a
 let the messenger know which of the roads are blocked currently. 
 ### The shortest safe path (if such exists) will be accordingly calculated and displayed.
 
+##### The problem statement: <br>
 <img src="images/original%20problem%20statement.jpeg" width=700>
 
+##### After user blocks the edges: (example) <br>
 <img src="images/problem%20statement.jpeg" width=700>
 
+##### Solution: (example) <br>
 <img src="images/solution.jpeg" width=700>
