@@ -1,4 +1,4 @@
-# Traveller-puzzle-solution-generator-
+# Traveller-puzzle-solution-generator
 (using Graph data structure)
 
 ## Puzzle : 
